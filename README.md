@@ -6,3 +6,6 @@ Basic input/output with Java - reading in a string, and appending it to another 
 
 ### Day 1 ("Types")
 Basic input output - this time involving integer and double input. This was accomplished by parsing the input as an integer/double, while passing it in as a string (using Scanner#nexLine). The printout was simple, and asked for basic arithmetic (addition), as well as string concatenation.
+
+### Day 2 ("Operators")
+More input and output, this time with arithmetic calculations for tip and tax additions to a value. The variables are read in and parsed, and then applied to the meal cost provided to the user. The final meal cost (after applying the tip and the tax) is cast to an integer and then printed out.
