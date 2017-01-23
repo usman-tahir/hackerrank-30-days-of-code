@@ -12,3 +12,6 @@ More input and output, this time with arithmetic calculations for tip and tax ad
 
 ### Day 3 ("Conditional Statements")
 Basic conditional statements, using && and || operators for specific output. In this challenge, the parity of a number was compared, as well as if it fell into a certain range of numbers. The output was returned as a string, and printed out, as soon as a number was received as input from the user, and interpreted by the function.
+
+### Day 4 ("Classes and Instances")
+Introduction to Object-Oriented Programming concepts, including object instantiation and instance variable instantation. A basic Person object was made in this exercise, and its 'age' instance variable was compared using a comparision function (Person#amIOld), with a range based printout being used to give the user some output.
