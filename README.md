@@ -15,3 +15,6 @@ Basic conditional statements, using && and || operators for specific output. In 
 
 ### Day 4 ("Classes and Instances")
 Introduction to Object-Oriented Programming concepts, including object instantiation and instance variable instantation. A basic Person object was made in this exercise, and its 'age' instance variable was compared using a comparision function (Person#amIOld), with a range based printout being used to give the user some output.
+
+### Day 5 ("Loops")
+Basic loop construction with sentinel values, that are updated during the execution of the loop. In this exercise, the first 10 multiples of an inputted number are generated, and then the loop breaks. Both the loop counter and the current number (used to generate the multiple) are incremented during each loop iteration.
