@@ -18,3 +18,6 @@ Introduction to Object-Oriented Programming concepts, including object instantia
 
 ### Day 5 ("Loops")
 Basic loop construction with sentinel values, that are updated during the execution of the loop. In this exercise, the first 10 multiples of an inputted number are generated, and then the loop breaks. Both the loop counter and the current number (used to generate the multiple) are incremented during each loop iteration.
+
+### Day 6 ("Review")
+Another looping exercise with feedback in the form of a string that has been rearranged with its even and odd indexed elements separated. Once each string is entered by the user into an array of strings, that array is parsed using a function that splits the string into letters, assigns the even and odd indexed elements into their respective strings, and returns a new string after it is formatted.
