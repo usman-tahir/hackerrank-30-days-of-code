@@ -21,3 +21,6 @@ Basic loop construction with sentinel values, that are updated during the execut
 
 ### Day 6 ("Review")
 Another looping exercise with feedback in the form of a string that has been rearranged with its even and odd indexed elements separated. Once each string is entered by the user into an array of strings, that array is parsed using a function that splits the string into letters, assigns the even and odd indexed elements into their respective strings, and returns a new string after it is formatted.
+
+### Day 7 ("Arrays")
+This exercise involves looping through arrays backwards, after initializing an array with a set amount of elements. The basic logic here is to use the length of the array to move forward and backward through the array, based on what is required.
