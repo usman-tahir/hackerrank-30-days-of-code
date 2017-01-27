@@ -24,3 +24,6 @@ Another looping exercise with feedback in the form of a string that has been rea
 
 ### Day 7 ("Arrays")
 This exercise involves looping through arrays backwards, after initializing an array with a set amount of elements. The basic logic here is to use the length of the array to move forward and backward through the array, based on what is required.
+
+### Day 8 ("Dictionaries and Maps")
+This exercise used a data structure known as a HashMap to collect, store, and later reference data using key and value pairs. Users are prompted for a name and a phone number to add to an address book, and this key value pair (name -> number) can be used to store the data and reference it later. If a name does not exist in the address book, then the user is prompted accordingly; otherwise, the name and the number are printed out side by side.
