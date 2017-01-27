@@ -22,7 +22,7 @@ public class Solution {
 			System.out.print("Enter the name for entry #" + (index + 1) + ": ");
 			name = s.next();
 
-			System.out.print("\nEnter the number for entry #" + (index + 1) + "(9 digits): ");
+			System.out.print("\nEnter the number for entry #" + (index + 1) + " (9 digits): ");
 			number = s.next();
 
 			addressBook.put(name, number);
@@ -37,7 +37,7 @@ public class Solution {
 			if (searchedName.equalsIgnoreCase("q")) {
 				break;
 			}
-			
+
 			if (addressBook.get(searchedName) != null) {
 				System.out.println(searchedName + ": " + addressBook.get(searchedName));
 			} else {
