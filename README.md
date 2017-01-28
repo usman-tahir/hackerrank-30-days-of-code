@@ -27,3 +27,6 @@ This exercise involves looping through arrays backwards, after initializing an a
 
 ### Day 8 ("Dictionaries and Maps")
 This exercise used a data structure known as a HashMap to collect, store, and later reference data using key and value pairs. Users are prompted for a name and a phone number to add to an address book, and this key value pair (name -> number) can be used to store the data and reference it later. If a name does not exist in the address book, then the user is prompted accordingly; otherwise, the name and the number are printed out side by side.
+
+### Day 9 ("Recursion")
+A basic introduction to recursion, using the factorial algorithm. For any number greater than one, the factorial of that number is equal that number multiplied by the factorial of one minus that number ((n!) = (n x factorial(n - 1))); the algorithm for this functionality becomes recursive, since the number 1 is set as a base case (the factorial of 1 is 1), and any other number greater than one follows the normal factorial rule.
