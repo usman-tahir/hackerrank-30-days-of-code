@@ -36,3 +36,6 @@ This exercise required the conversion of a decimal number into its binary form, 
 
 ### Day 11 ("2D Arrays")
 This exercise required parsing a two-dimensional array and creating 'hourglass' figures out of the elements, which essentially boiled down to one-dimensional arrays with 7 elements in each generated hourglass. Furthermore, once all the 'hourglasses' were generated, the maximum sum for all hourglasses needed to be computed, which consisted of summing all the values in the one-dimensional arrays, and sorting all those values to find the maximum sum. One edge case that was somewhat interesting to deal with was a grid (generated two-dimensional array) that had all negative numbers, and determining the max sum from an array of negative integers.
+
+### Day 12 ("Inheritance")
+Basic class-based inheritance with a superclass (Person) and a subclass (Student). This exercise allows the user to instantiate a student object, and give them attributes such as a first name, a last name, a student ID number, and an array of test scores, with which to calculate a character letter grade based on their average score from their test scores. The information was read in and used to construct the Student object, which then called its 'calculate' method to produce a character letter grade.
