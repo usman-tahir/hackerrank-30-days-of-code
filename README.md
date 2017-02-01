@@ -39,3 +39,6 @@ This exercise required parsing a two-dimensional array and creating 'hourglass' 
 
 ### Day 12 ("Inheritance")
 Basic class-based inheritance with a superclass (Person) and a subclass (Student). This exercise allows the user to instantiate a student object, and give them attributes such as a first name, a last name, a student ID number, and an array of test scores, with which to calculate a character letter grade based on their average score from their test scores. The information was read in and used to construct the Student object, which then called its 'calculate' method to produce a character letter grade.
+
+### Day 13 ("Abstract Classes")
+This exercise takes class-based inheritance a step futher by introducing abstraction. A Book class serves as the abstract class to the MyBook class, which extends it and implements its attributes (title and author) and functionality (Book#display). The MyBook class has an additional price field, which belongs only to MyBook class instantiations, using the 'super()' constructor to initialize its title and author.
