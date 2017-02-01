@@ -42,3 +42,6 @@ Basic class-based inheritance with a superclass (Person) and a subclass (Student
 
 ### Day 13 ("Abstract Classes")
 This exercise takes class-based inheritance a step futher by introducing abstraction. A Book class serves as the abstract class to the MyBook class, which extends it and implements its attributes (title and author) and functionality (Book#display). The MyBook class has an additional price field, which belongs only to MyBook class instantiations, using the 'super()' constructor to initialize its title and author.
+
+### Day 14 ("Scope")
+This exercise deals with determining the maximum difference between the elements of a given array, using a Difference class. This is achieved by iterating through the array twice, and comparing the absolute differences between the elements against all other elements, finally setting the maximum difference once both iterations are done.
