@@ -48,3 +48,6 @@ This exercise deals with determining the maximum difference between the elements
 
 ### Day 15 ("Linked List")
 Using the provided Linked List implementation using a Node class, an insertion method needed to be created in order to append nodes to the end of the Linked List that was generated. This was done by creating a new node with the passed in data, iterating through the current linked list (using a reference to 'head' - the first node in the Linked List), and then appending the new node, and returning head.
+
+### Day 16 ("Exceptions - String to Integer")
+This exercise was a basic introduction into try catch blocks, and catching exceptions based on parsing a string. If a string could be parsed into an integer, it is printed out; otherwise (once the exception is caught), an error message is printed, instead of the program crashing.
