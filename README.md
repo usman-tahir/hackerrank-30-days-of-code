@@ -45,3 +45,6 @@ This exercise takes class-based inheritance a step futher by introducing abstrac
 
 ### Day 14 ("Scope")
 This exercise deals with determining the maximum difference between the elements of a given array, using a Difference class. This is achieved by iterating through the array twice, and comparing the absolute differences between the elements against all other elements, finally setting the maximum difference once both iterations are done.
+
+### Day 15 ("Linked List")
+Using the provided Linked List implementation using a Node class, an insertion method needed to be created in order to append nodes to the end of the Linked List that was generated. This was done by creating a new node with the passed in data, iterating through the current linked list (using a reference to 'head' - the first node in the Linked List), and then appending the new node, and returning head.
