@@ -51,3 +51,6 @@ Using the provided Linked List implementation using a Node class, an insertion m
 
 ### Day 16 ("Exceptions - String to Integer")
 This exercise was a basic introduction into try catch blocks, and catching exceptions based on parsing a string. If a string could be parsed into an integer, it is printed out; otherwise (once the exception is caught), an error message is printed, instead of the program crashing.
+
+### Day 17 ("More Exceptions")
+This exercise was centered around creating custom exceptions, and throwing them when arguments to certain methods received invalid input(s). The custom made exception was created by extending RuntimeException, an existing exception in Java.
