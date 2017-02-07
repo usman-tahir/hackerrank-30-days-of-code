@@ -57,3 +57,6 @@ This exercise was centered around creating custom exceptions, and throwing them 
 
 ### Day 18 ("Queues and Stacks")
 This exercise dealt with determining whether or not a string input was a palindrome, using a stack and a queue to keep track of the letters and see if they were the same both forwards and backwards. The stack was used to determine if the letters were the same from the end of the word to the beginning, and the queue was used to determine if the letters were the same from the beginning of the word to the end.
+
+### Day 19 ("Interfaces")
+This exercise used an interface (AdvancedArithmetic) to describe functionality for a class (Calculator). The Calculator class implements the function described in the AdvancedArithmetic interface, and then was instantiated in a main class to use its functionality. The interface that the Calculator class used was also displayed as a printout.
