@@ -60,3 +60,6 @@ This exercise dealt with determining whether or not a string input was a palindr
 
 ### Day 19 ("Interfaces")
 This exercise used an interface (AdvancedArithmetic) to describe functionality for a class (Calculator). The Calculator class implements the function described in the AdvancedArithmetic interface, and then was instantiated in a main class to use its functionality. The interface that the Calculator class used was also displayed as a printout.
+
+### Day 20 ("Sorting")
+In this exercise, the Bubble Sort algorithm was implemented, in order to sort an array in ascending order. The solution required that the number of swaps made for the array was returned from the main sorting function, and the first and last element of the array were printed as well.
