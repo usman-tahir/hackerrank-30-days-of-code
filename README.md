@@ -63,3 +63,6 @@ This exercise used an interface (AdvancedArithmetic) to describe functionality f
 
 ### Day 20 ("Sorting")
 In this exercise, the Bubble Sort algorithm was implemented, in order to sort an array in ascending order. The solution required that the number of swaps made for the array was returned from the main sorting function, and the first and last element of the array were printed as well.
+
+### Day 21 ("Generics")
+In this exercise, a generic class (Printer) was created to print out an array of integers or strings, regardless of the type. This Printer class accepts any data type for instantiation, and iterates through an array of objects of any type, printing them out with a simple printout call (System.out.println()).
