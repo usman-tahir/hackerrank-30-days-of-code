@@ -66,3 +66,6 @@ In this exercise, the Bubble Sort algorithm was implemented, in order to sort an
 
 ### Day 21 ("Generics")
 In this exercise, a generic class (Printer) was created to print out an array of integers or strings, regardless of the type. This Printer class accepts any data type for instantiation, and iterates through an array of objects of any type, printing them out with a simple printout call (System.out.println()).
+
+### Day 22 ("Binary Search Trees")
+This exercise introduces the idea of Binary Search Trees, and creating root nodes with which to create trees. The height of the BST, computed through the Solution#getHeight function, was returned and then printed; It was computed by determining whether the left or the right node path's leaf node height was the longest.
