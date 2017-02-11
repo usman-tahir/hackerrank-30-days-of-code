@@ -69,3 +69,6 @@ In this exercise, a generic class (Printer) was created to print out an array of
 
 ### Day 22 ("Binary Search Trees")
 This exercise introduces the idea of Binary Search Trees, and creating root nodes with which to create trees. The height of the BST, computed through the Solution#getHeight function, was returned and then printed; It was computed by determining whether the left or the right node path's leaf node height was the longest.
+
+### Day 23 ("BST Level-Order Traversal")
+Building off of the day 22 exercise, this exercise used a level-order traversal (breadth-first) to print the nodes of a Binary Search Tree. This was done by getting the height of the tree, and iterating down from the root, printing the nodes on each level from left to right.
