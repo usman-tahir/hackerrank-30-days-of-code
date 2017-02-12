@@ -72,3 +72,6 @@ This exercise introduces the idea of Binary Search Trees, and creating root node
 
 ### Day 23 ("BST Level-Order Traversal")
 Building off of the day 22 exercise, this exercise used a level-order traversal (breadth-first) to print the nodes of a Binary Search Tree. This was done by getting the height of the tree, and iterating down from the root, printing the nodes on each level from left to right.
+
+### Day 24 ("More Linked Lists")
+In this exercise, a simple linked list was created with a set number of elements, and a new method (Solution#removeDuplicates) was created to remove any duplicate data elements (and by extension, the node itself) from the linked list. The returned linked list (from the function) reflects this removal of duplicates, and is then displayed with a normal printout function (Solution#display).
