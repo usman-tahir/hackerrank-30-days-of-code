@@ -75,3 +75,6 @@ Building off of the day 22 exercise, this exercise used a level-order traversal 
 
 ### Day 24 ("More Linked Lists")
 In this exercise, a simple linked list was created with a set number of elements, and a new method (Solution#removeDuplicates) was created to remove any duplicate data elements (and by extension, the node itself) from the linked list. The returned linked list (from the function) reflects this removal of duplicates, and is then displayed with a normal printout function (Solution#display).
+
+### Day 25 ("Running Time and Complexity")
+In this exercise, a function was created to determine if a number was prime or not, while taking into consideration run time for larger numbers (greater than 2 * 10E9). The main algorithm to determine if a number is prime or not was to see if it had a remainder of 0 when dividing the square root of the number by 2; if so, it is considerd not to be prime, and to be prime otherwise.
