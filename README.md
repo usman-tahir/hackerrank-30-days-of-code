@@ -79,5 +79,8 @@ In this exercise, a simple linked list was created with a set number of elements
 ### Day 25 ("Running Time and Complexity")
 In this exercise, a function was created to determine if a number was prime or not, while taking into consideration run time for larger numbers (greater than 2 * 10E9). The main algorithm to determine if a number is prime or not was to see if it had a remainder of 0 when dividing the square root of the number by 2; if so, it is considerd not to be prime, and to be prime otherwise.
 
-### Day 25 ("Nested Logic")
+### Day 26 ("Nested Logic")
 This exercise utilized a nested if-statement structure to compute the total library fine for an overdue (or on time) library book return. The year, month, and date were all compared within a series of if, else-if, and else statements to determine the total fine for the book, if any.
+
+### Day 28 ("Regex, Patterns, and Intro to Databases")
+This exercise used the concept of regex matching to filter out names from a list of name/email pairings (from standard input). Each email was analyzed and if it was a 'gmail' email, the name associated with that email was added to a list, which was then returned as an alphabetized list of names. The standard input essentially served as a database source, and showed how data could be fetched and parsed to get relevant information for the user.
