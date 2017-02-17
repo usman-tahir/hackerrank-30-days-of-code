@@ -84,3 +84,6 @@ This exercise utilized a nested if-statement structure to compute the total libr
 
 ### Day 28 ("Regex, Patterns, and Intro to Databases")
 This exercise used the concept of regex matching to filter out names from a list of name/email pairings (from standard input). Each email was analyzed and if it was a 'gmail' email, the name associated with that email was added to a list, which was then returned as an alphabetized list of names. The standard input essentially served as a database source, and showed how data could be fetched and parsed to get relevant information for the user.
+
+### Day 29 ("Bitwise AND")
+This final exercise used the bitwise operator '&' to determine a certain integer value, given a set of constraints and input by the user. The comparison made was between the bitwise operation result (from an array of values supplied by the user), as well as a user-entered integer that served as an upper boundary to the bitwise operation.
